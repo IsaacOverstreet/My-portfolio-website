@@ -1,15 +1,15 @@
 import React from "react";
 import Lottie from "lottie-react"
-import Animation from "./Lottie/shooting stars.json"
-import Home from "./Home";
-import NavBar from "./NavBar";
-import Footer from "./Footer";
+import Animation from "./component/Lottie/shooting stars.json"
+import Home from "./component/Home";
+import NavBar from "./component/NavBar";
+import Footer from "./component/Footer";
 import { Route, Routes } from "react-router-dom";
-import About from "./About"
-import Project from "./Project"
-import Resume from "./Resume"
-import Refresh from "./Refresh";
-import MoveToTop from "./MoveToTop";
+import About from "./component/About"
+import Project from "./component/Project"
+import Resume from "./component/Resume"
+import Refresh from "./component/Refresh";
+import MoveToTop from "./component/MoveToTop";
 
 
 function App() {
